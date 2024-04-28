@@ -85,16 +85,6 @@ class _LoginPageState extends State<LoginPage> {
               height: 25,
             ),
 
-            Text(
-              "Gebeta Food Delivery App",
-              style: TextStyle(
-                fontSize: 16,
-                color: Theme.of(context).colorScheme.inversePrimary,
-              ),
-            ),
-
-            const SizedBox(height: 25),
-
             MyTextField(
               controller: emailController,
               hintText: "Email",
