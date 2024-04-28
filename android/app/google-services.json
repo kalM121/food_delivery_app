@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93939665973",
+    "project_id": "fooddelivery-42e18",
+    "storage_bucket": "fooddelivery-42e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93939665973:android:c3f3e20e9f5b9c4fa3b57c",
+        "android_client_info": {
+          "package_name": "com.example.gebeta_food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ip5QzfA8qXVfZ4JXTqqcKKAPqjEHvN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
